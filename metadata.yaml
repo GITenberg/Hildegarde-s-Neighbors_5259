@@ -1,0 +1,34 @@
+_repo: Hildegarde-s-Neighbors_5259
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5259'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PS'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Neighborhoods -- Juvenile fiction'
+- !lcsh 'Mothers and daughters -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- GITenberg
+title: Hildegarde's Neighbors
+url: http://www.gutenberg.org/ebooks/5259
